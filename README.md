@@ -3,7 +3,7 @@
 Beginner Java developer focused on Java Core and object-oriented programming.
 
 ## 🚀 About me
-- Learning Java and building console applications
+- Building Java console applications
 - Practicing OOP, collections, and program structure
 - Working on improving code quality and project organization
 
@@ -29,7 +29,12 @@ Console Java app for adding dishes and generating dinner combinations.
 - File I/O
 - Stream API
 
-## 🎯 Goals
-- Become a Java Junior Developer
+## 🎯 Goal
+Become a Java Junior Developer and build real-world applications
+
+## 💻 What I focus on
+- Writing clean and understandable code
+- Practicing object-oriented programming
+- Building small but complete console applications
 - Improve problem-solving skills
 - Build more complex projects
