@@ -1,40 +1,44 @@
-# Hi, I'm Oleg 👋
+# Привет, я Олег 👋
 
-Beginner Java developer focused on Java Core and object-oriented programming.
+Начинающий Java-разработчик. Изучаю Java Core, ООП и постепенно собираю учебные проекты в GitHub, чтобы развивать практические навыки и формировать портфолио.
 
-## 🚀 About me
-- Building Java console applications
-- Practicing OOP, collections, and program structure
-- Working on improving code quality and project organization
+## 🚀 Обо мне
+- Пишу консольные приложения на Java
+- Практикую объектно-ориентированное программирование
+- Изучаю коллекции, структуру программ и базовые принципы чистого кода
+- Постепенно усложняю проекты по мере изучения новых тем
 
-## 🛠️ Technologies
+## 🛠️ Технологии и инструменты
 - Java
-- OOP
-- Collections (ArrayList, HashMap)
-- Git & GitHub
+- ООП
+- Collections (`ArrayList`, `HashMap`)
+- Git / GitHub
 - IntelliJ IDEA
 
-## 📂 Projects
+## 📂 Проекты
 
-### 🔹 Step Tracker
-Console Java application for tracking daily steps, goals, and statistics.  
-👉 https://github.com/plisha39-dotcom/step-tracker
+### 🔹 [Step Tracker](https://github.com/plisha39-dotcom/step-tracker)
+Консольное приложение на Java для отслеживания ежедневных шагов, целей и статистики.
 
-### 🔹 Dinner Constructor
-Console Java app for adding dishes and generating dinner combinations.  
-👉 https://github.com/plisha39-dotcom/dinner-constructor
+### 🔹 [Dinner Constructor](https://github.com/plisha39-dotcom/dinner-constructor)
+Консольное Java-приложение для добавления блюд по категориям и генерации вариантов ужина.
 
-## 📚 Currently learning
-- Exception handling
-- File I/O
+### 🔹 [TaskTracker](https://github.com/plisha39-dotcom/TaskTracker)
+Консольное приложение на Java для управления задачами: создание, просмотр, изменение статуса и удаление задач.
+
+## 📚 Сейчас изучаю
+- исключения
+- работу с файлами
 - Stream API
+- дату и время в Java
+- Git и работу с ветками
 
-## 🎯 Goal
-Become a Java Junior Developer and build real-world applications
+## 🎯 Цель
+Стать Java Junior Developer, укрепить базу по Java и перейти к более сложным проектам с файлами, JSON, HTTP и API.
 
-## 💻 What I focus on
-- Writing clean and understandable code
-- Practicing object-oriented programming
-- Building small but complete console applications
-- Improve problem-solving skills
-- Build more complex projects
+## 💻 На чём делаю акцент
+- писать чистый и понятный код
+- лучше понимать логику программы, а не просто получать готовое решение
+- развивать алгоритмическое мышление
+- создавать небольшие, но законченные проекты
+- постепенно улучшать структуру и качество кода
